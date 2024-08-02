@@ -20,3 +20,5 @@ if (markHigherBMI) {console.log(`marks bmi (${markBMI}) is higher than john's bm
 }
 else{console.log(`john's  bmi (${johnBMI}) is higher than mark's bmi  (${markBMI})`);};
 
+
+
