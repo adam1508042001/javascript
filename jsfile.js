@@ -1,5 +1,8 @@
 // let js = 'amazing';
 // if (js === 'amazing') alert('javascript is funny!')
+'use strict';
+//forbid us to do some errors, create visible errors 
+ 
 
 console.log(40 + 80 + 3 - 23);
 

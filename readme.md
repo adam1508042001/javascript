@@ -43,6 +43,33 @@ const birthDay = 2001;
 -var 
 
 
+pour declarer une fonction 
+on a 
+une fonction normale 
+<!-- function fruitProcessor(apples, oranges)
+{
+    let juice = `juice with ${apples} apples and ${oranges} oranges.`
+;
+return juice;
+} -->
+
+function - functionname- functionparameters - functionbody - retun 
+
+
+fonction expression
+const calculAge2 = function (birthYear) {
+    return 2024 - birthYear;
+}
+
+declaration de variable - variable - function - parametre de function- return
+
+
+//arrow function
+const calculAge3 = birthYear => 2024 -  birthYear ;
+console.log(calculAge3(2001));
+
+declaration de la variable (const) -la variable- le parametre - le body de la fonction 
+
 
 
 
