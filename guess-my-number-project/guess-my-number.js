@@ -106,3 +106,5 @@ document.querySelector(".again").addEventListener("click", function () {
   document.querySelector(".guess").value = "";
   document.querySelector(".highscore").textContent = highscore;
 });
+
+//projet fin
